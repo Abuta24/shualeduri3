@@ -318,3 +318,8 @@ h2{
     margin-top: 35px;
     margin-left: 24px;
 }
+
+.reset:hover{
+    border-radius: 5px;
+    background: #9FE8DF;
+}
